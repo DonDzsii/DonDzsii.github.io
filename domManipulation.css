@@ -1,0 +1,25 @@
+header,body {
+  font-family:verdana;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+h1 {
+  color: red;
+}
+h2 {
+  color: purple;
+}
+
+.pink {
+  color:#ff8080;
+}
+
+#click-me {
+  width: 150px;
+  height: 50px;
+  font-size: 100%;
+
+}
